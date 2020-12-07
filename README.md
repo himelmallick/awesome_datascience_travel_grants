@@ -22,7 +22,7 @@ A curated list of early-career data science student paper awards and travel gran
 - David P. Byar Young Investigator Award [[Link](https://community.amstat.org/biometricsbiom/award/byaraward)]. Eligibility: Within **three**  years of completion of PhD. Application deadline: **December 1**.
 - Peter Gavin Hall IMS Early Career Prize [[Link](https://imstat.org/ims-awards/peter-gavin-hall-ims-early-career-prize/)]. Eligibility: Within **eight** years of completion of PhD. Application deadline: **December 1**.
 - Tweedie New Researcher Award [[Link](https://imstat.org/ims-awards/tweedie-new-researcher-award/)]. Eligibility: Within **five** years of completion of PhD. Application deadline: **December 1**.
-- SIE Young Investigator Award [[Link](https://community.amstat.org/sie/awards)]. Eligibility: Within **t20** years of completion of PhD. Application deadline: **December 15**.
+- SIE Young Investigator Award [[Link](https://community.amstat.org/sie/awards)]. Eligibility: Within **two** years of completion of PhD. Application deadline: **December 15**.
 - ISCB Travel Award [[Link](https://www.iscb.org/iscb-conference-travel-fellowships)]. Eligibility: Graduate student or postdoc. Application deadline: **varies each year, per conference**.
 
 
