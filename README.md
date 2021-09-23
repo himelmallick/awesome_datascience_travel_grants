@@ -10,7 +10,7 @@ A curated list of early-career data science student paper awards and travel gran
 - IMS Lawrence D. Brown Ph.D. Student Award [[Link](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)]. Eligibility: Degree candidate during the award year. Application deadline: **May 1**.
 - WNAR Student Paper Award [[Link](http://www.wnar.org/Student-Competition)]. Eligibility: Degree candidate during the award year. Application deadline: **varies each year, typically May**.
 - IISA Student Paper Award [[Link](https://intindstat.org/spc)]. Eligibility: Degree candidate during the award year. Application deadline: **varies each year, typically May**.
-- ENAR Student Paper Award [[Link](https://www.enar.org/meetings/StudentPaperAwards/)]. Eligibility: Degree candidate during the award year. Application deadline: **October 15**.
+- ENAR Student Paper Award [[Link](https://www.enar.org/meetings/StudentPaperAwards/)]. Eligibility: Degree candidate during the award year. Application deadline: **October 1**.
 - IMS Lawrence D. Brown Ph.D. Student Award [[Link](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)]. Eligibility: Degree candidate during the award year. Application deadline: **May 1**.
 - ASA Student Paper Competitions [[Link](https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx)]. Eligibility: Degree candidate during the award year. Application deadline: **December 1-15** (see **Notes**).
 
