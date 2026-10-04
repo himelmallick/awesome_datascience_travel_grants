@@ -1,0 +1,40 @@
+name: Report a correction
+description: A deadline changed, a link is broken, or an entry is out of date.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: award
+    attributes:
+      label: Which award?
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What needs to change?
+      multiple: true
+      options:
+        - Deadline
+        - Link
+        - Eligibility
+        - Amount or coverage
+        - The award was renamed
+        - The award was discontinued
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: The correct information
+      description: Please quote the official page if you can.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Link to the official page that shows it
+      placeholder: https://
+    validations:
+      required: true

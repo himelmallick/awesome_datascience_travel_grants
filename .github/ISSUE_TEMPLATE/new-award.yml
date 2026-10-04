@@ -1,0 +1,56 @@
+name: Suggest an award
+description: Propose a student paper award, travel grant or early-career award for the list.
+title: "New award: "
+labels: ["new award"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you. Fill in what you know; a maintainer will check the official page and add the entry.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the award
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Society or organizer
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link to the official page
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Who can apply
+      description: For example student status, years since the PhD, or membership.
+    validations:
+      required: true
+  - type: textarea
+    id: support
+    attributes:
+      label: What it covers
+      description: For example the amount, or which conference it pays for.
+  - type: input
+    id: deadline
+    attributes:
+      label: Usual deadline
+      description: The date or time of year when the call usually closes.
+      placeholder: November 15, or "typically May"
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best section of the list
+      options:
+        - Student paper awards and student travel awards
+        - ASA section competitions for JSM
+        - Early-career awards and travel grants
+        - Conference support (mathematics, machine learning, computational biology, R)
+        - Scholarships and other support
+        - Not sure
