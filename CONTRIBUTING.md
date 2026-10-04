@@ -38,7 +38,7 @@ Awards from any country or society are welcome.
 | `support` | What the award covers, in one sentence | `Travel reimbursement up to $650 and one short-course tuition waiver` |
 | `deadline` | When the call usually closes, without a year | `Mid-October`, `November 15`, `Varies each year, typically May` |
 | `deadline_month` | The month of that deadline as a number from 1 to 12. Leave empty if it varies by conference | `10` |
-| `verified` | The date you checked the official page, as year-month-day | `2026-10-03` |
+| `verified` | The date you checked the official page, as year-month-day | `2026-10-04` |
 
 Three rules keep the list trustworthy:
 

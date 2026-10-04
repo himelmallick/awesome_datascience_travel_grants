@@ -6,7 +6,7 @@ Every entry links to the official page and says who can apply, what the award co
 
 Spotted something out of date, or know an award that is missing? [Tell us with a short form](https://github.com/himelmallick/awesome_datascience_travel_grants/issues/new/choose). No Git knowledge is needed.
 
-**74 awards. Last verified against the official pages on October 3, 2026.**
+**74 awards. Last verified against the official pages on October 4, 2026.**
 
 ## Contents
 

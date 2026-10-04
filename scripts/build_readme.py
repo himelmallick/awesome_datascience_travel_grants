@@ -57,7 +57,7 @@ def read_awards():
         if r["deadline_month"] and r["deadline_month"] not in [str(m) for m in range(1, 13)]:
             problems.append(f"{where}: deadline_month must be a number from 1 to 12, or empty")
         if r["verified"] and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["verified"]):
-            problems.append(f"{where}: verified must look like 2026-10-03")
+            problems.append(f"{where}: verified must look like 2026-10-04")
         if any("|" in (v or "") for v in r.values()):
             problems.append(f"{where}: the character | cannot be used")
     if problems:
